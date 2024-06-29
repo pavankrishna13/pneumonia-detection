@@ -1,4 +1,4 @@
-# pneumonia-detection
+# Pneumonia Detection
 
 The goal is to build a pneumonia detection system, to locate the position of inflammation in an image.
 Tissues with sparse material, such as lungs which are full of air, do not absorb the X-rays and appear black in the image. Dense tissues such as bones absorb X-rays and appear white in the image.
